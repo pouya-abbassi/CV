@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="384.01915"
-     inkscape:cy="566.80962"
+     inkscape:zoom="1.4"
+     inkscape:cx="393.56356"
+     inkscape:cy="288.1502"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -36,7 +36,12 @@
      inkscape:window-height="1164"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -45,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,7 +73,7 @@
        y="1.4210855e-14" />
     <g
        id="g26"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.4562353,297.00105)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.5381228,295.01539)">
       <text
          transform="matrix(1,0,0,-1,24.009,797.782)"
          style="font-variant:normal;font-weight:normal;font-size:23.102px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -80,7 +85,7 @@
     </g>
     <g
        id="g32"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.1386679,297.00105)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.2205554,295.01539)">
       <text
          transform="matrix(1,0,0,-1,24.888,782.985)"
          style="font-variant:normal;font-weight:normal;font-size:10.913px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -98,19 +103,29 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
          x="25.865751"
-         y="-744.30933"
+         y="-748.28314"
          id="text2035"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            x="25.865751"
-           y="-744.30933"
+           y="-748.28314"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan2037">I'm an expert full stack software engineer, passionate about learning cutting edge technologies. I'm a huge fan of Free-Software and Security.</tspan><tspan
+           id="tspan2037">I'm an expert full stack software engineer, passionate about learning cutting edge technologies and a huge fan of Free-Software and Security.</tspan><tspan
            sodipodi:role="line"
            x="25.865751"
-           y="-734.30933"
+           y="-738.28314"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan1855">I love LISP and Functional Programming, so Clojure was a great news when I frst heard about it.</tspan></text>
+           id="tspan1855">I have worked professionaly on low and high level programming languages such as C for microcontrollers and Python for web development and</tspan><tspan
+           sodipodi:role="line"
+           x="25.865751"
+           y="-728.28314"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+           id="tspan1987">image processing.</tspan><tspan
+           sodipodi:role="line"
+           x="25.865751"
+           y="-718.28314"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
+           id="tspan1997">I also love LISP and Functional Programming, so I spend most of my free time on Clojure hobby projects.</tspan></text>
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385279"
@@ -277,19 +292,9 @@
            y="9.1969881"
            id="tspan1867">solutions.</tspan></text>
     </g>
-    <path
-       d="m 9.6912483,101.28837 c -0.491802,0 -0.88302,0.39097 -0.88302,0.88247 0,0.47905 0.391218,0.85757 0.88302,0.85757 0.4797857,0 0.8580957,-0.37852 0.8580957,-0.85757 0,-0.4915 -0.37831,-0.88247 -0.8580957,-0.88247 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path136"
-       inkscape:connector-curvature="0" />
     <g
        id="g138"
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
-    <path
-       d="m 9.6675523,104.81625 c -0.491803,0 -0.88302,0.39053 -0.88302,0.86958 0,0.49195 0.391217,0.87002 0.88302,0.87002 0.4797857,0 0.8580957,-0.37807 0.8580957,-0.87002 0,-0.47905 -0.37831,-0.86958 -0.8580957,-0.86958 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path144"
-       inkscape:connector-curvature="0" />
     <g
        id="g146"
        transform="matrix(0.35296255,0,0,-0.35274372,0.1452502,298.20183)">
@@ -302,11 +307,6 @@
            x="0"
            y="0">Project Manager</tspan></text>
     </g>
-    <path
-       d="m 9.6912483,108.34324 c -0.491802,0 -0.88302,0.37807 -0.88302,0.87001 0,0.47904 0.391218,0.87002 0.88302,0.87002 0.4797857,0 0.8580957,-0.39098 0.8580957,-0.87002 0,-0.49194 -0.37831,-0.87001 -0.8580957,-0.87001 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path152"
-       inkscape:connector-curvature="0" />
     <g
        id="g154"
        transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.26655)">
@@ -410,11 +410,6 @@
            y="9.1969881"
            id="tspan1871">integration with other softwares. i.e. monitoring system.</tspan></text>
     </g>
-    <path
-       d="m 9.6675523,142.82684 c -0.491803,0 -0.88302,0.37808 -0.88302,0.85712 0,0.49195 0.391217,0.88292 0.88302,0.88292 0.4797857,0 0.8580957,-0.39097 0.8580957,-0.88292 0,-0.47904 -0.37831,-0.85712 -0.8580957,-0.85712 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path214"
-       inkscape:connector-curvature="0" />
     <g
        id="g222"
        transform="matrix(0.35296255,0,0,-0.35274372,5e-7,295.21096)">
@@ -510,19 +505,9 @@
            y="18.393976"
            id="tspan1880">I started as junior developer and gradually raise to project management position.</tspan></text>
     </g>
-    <path
-       d="m 9.6675513,182.89342 c -0.491802,0 -0.88302,0.37852 -0.88302,0.87002 0,0.47904 0.391218,0.87002 0.88302,0.87002 0.4797857,0 0.8580967,-0.39098 0.8580967,-0.87002 0,-0.4915 -0.378311,-0.87002 -0.8580967,-0.87002 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path284"
-       inkscape:connector-curvature="0" />
     <g
        id="g286"
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
-    <path
-       d="m 9.6675513,187.41312 c -0.491802,0 -0.88302,0.37809 -0.88302,0.85713 0,0.49194 0.391218,0.88291 0.88302,0.88291 0.4797857,0 0.8580967,-0.39097 0.8580967,-0.88291 0,-0.47904 -0.378311,-0.85713 -0.8580967,-0.85713 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path292"
-       inkscape:connector-curvature="0" />
     <g
        id="g294"
        transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.09225)">
@@ -535,11 +520,6 @@
            x="0"
            y="0">Project Manager</tspan></text>
     </g>
-    <path
-       d="m 9.6675513,191.9226 c -0.491802,0 -0.88302,0.37807 -0.88302,0.88247 0,0.47906 0.391218,0.85757 0.88302,0.85757 0.4797857,0 0.8580967,-0.37851 0.8580967,-0.85757 0,-0.5044 -0.378311,-0.88247 -0.8580967,-0.88247 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path300"
-       inkscape:connector-curvature="0" />
     <g
        id="g302"
        transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.09225)">
@@ -657,11 +637,6 @@
            x="0"
            y="0">2008 - 2010</tspan></text>
     </g>
-    <path
-       d="m 9.6629533,246.64342 c -0.491803,0 -0.883021,0.37807 -0.883021,0.88247 0,0.47904 0.391218,0.85713 0.883021,0.85713 0.4797847,0 0.8580957,-0.37809 0.8580957,-0.85713 0,-0.5044 -0.378311,-0.88247 -0.8580957,-0.88247 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path366"
-       inkscape:connector-curvature="0" />
     <g
        id="g368"
        transform="matrix(0.35296255,0,0,-0.35274372,-0.0045979,291.67867)">
@@ -698,11 +673,6 @@
            y="19.985001"
            id="tspan1890">Microcontrollers</tspan></text>
     </g>
-    <path
-       d="m 9.6629533,258.09202 c -0.491803,0 -0.883021,0.39098 -0.883021,0.88292 0,0.47905 0.391218,0.85713 0.883021,0.85713 0.4797847,0 0.8580957,-0.37808 0.8580957,-0.85713 0,-0.49194 -0.378311,-0.88292 -0.8580957,-0.88292 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path394"
-       inkscape:connector-curvature="0" />
     <g
        id="g402"
        transform="matrix(0.35296255,0,0,-0.35274372,-0.0045979,291.67867)">
@@ -890,11 +860,6 @@
            x="0"
            y="0">2nd place RoboCup (2010)</tspan></text>
     </g>
-    <path
-       d="m 110.70898,219.08934 c -0.47946,0 -0.87033,0.3786 -0.87033,0.87022 0,0.47915 0.39087,0.87024 0.87033,0.87024 0.47991,0 0.87078,-0.39109 0.87078,-0.87024 0,-0.49162 -0.39087,-0.87022 -0.87078,-0.87022 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.445047"
-       id="path628"
-       inkscape:connector-curvature="0" />
     <g
        id="g630"
        transform="matrix(0.35296255,0,0,-0.35274372,0.3588233,334.00832)">
@@ -1214,11 +1179,6 @@
            x="0"
            y="0">Courses</tspan></text>
     </g>
-    <path
-       d="m 56.6878,246.65347 c -0.491804,0 -0.883021,0.37807 -0.883021,0.88247 0,0.47904 0.391217,0.85713 0.883021,0.85713 0.479784,0 0.8581,-0.37809 0.8581,-0.85713 0,-0.5044 -0.378316,-0.88247 -0.8581,-0.88247 z"
-       style="fill:#009500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.444934"
-       id="path366-8"
-       inkscape:connector-curvature="0" />
     <g
        id="g5738"
        transform="matrix(0.08941884,0,0,-0.08936341,112.15027,54.32871)">
@@ -1661,30 +1621,6 @@
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-73-8"
-       cx="195.55458"
-       cy="128.56865"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-4-4"
-       cx="192.3779"
-       cy="128.56865"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-8-31"
-       cx="189.20128"
-       cy="128.56865"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-8-2-4"
-       cx="186.0246"
-       cy="128.56865"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-73-7-06"
        cx="150.49281"
        cy="128.56865"
@@ -1706,36 +1642,6 @@
        id="path26696-2-0-8-2-5-2"
        cx="140.96284"
        cy="128.56865"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-66"
-       cx="198.73122"
-       cy="135.62349"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-73-4"
-       cx="195.55458"
-       cy="135.62349"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-4-95"
-       cx="192.3779"
-       cy="135.62349"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-8-0"
-       cx="189.20128"
-       cy="135.62349"
-       r="1.0583333" />
-    <circle
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path26696-2-0-8-2-48"
-       cx="186.0246"
-       cy="135.62349"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1787,10 +1693,6 @@
        id="path26696-2-0-7"
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 198.81169,99.290787 a 1.0583333,1.0583333 0 0 0 -1.05833,1.058333 1.0583333,1.0583333 0 0 0 1.05833,1.05833 1.0583333,1.0583333 0 0 0 1.05834,-1.05833 1.0583333,1.0583333 0 0 0 -1.05834,-1.058333 z m 0,0.529167 a 0.52916666,0.52916666 0 0 1 0.52917,0.529166 0.52916666,0.52916666 0 0 1 -0.52917,0.52917 0.52916666,0.52916666 0 0 1 -0.52917,-0.52917 0.52916666,0.52916666 0 0 1 0.52917,-0.529166 z" />
-    <path
-       id="path26696-2-0-71"
-       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 198.81169,127.51032 a 1.0583333,1.0583333 0 0 0 -1.05833,1.05833 1.0583333,1.0583333 0 0 0 1.05833,1.05834 1.0583333,1.0583333 0 0 0 1.05833,-1.05834 1.0583333,1.0583333 0 0 0 -1.05833,-1.05833 z m 0,0.52917 a 0.52916666,0.52916666 0 0 1 0.52917,0.52916 0.52916666,0.52916666 0 0 1 -0.52917,0.52917 0.52916666,0.52916666 0 0 1 -0.52917,-0.52917 0.52916666,0.52916666 0 0 1 0.52917,-0.52916 z" />
     <path
        id="path26696-2-0-15-7"
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1886,6 +1788,96 @@
        id="path26696-2-0-8-2-0-4"
        cx="186.10509"
        cy="79.184509"
+       r="1.0583333" />
+    <g
+       id="g834-8-9-6"
+       transform="matrix(0.35296255,0,0,-0.35274372,116.41773,201.35515)">
+      <text
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text838-1-2-1"
+         x="203.2684"
+         y="-203.29018"><tspan
+           sodipodi:role="line"
+           x="203.2684"
+           y="-203.29018"
+           id="tspan2010-6">Fluent</tspan></text>
+      <text
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text838-1-2-1-1"
+         x="203.28041"
+         y="-183.45015"><tspan
+           sodipodi:role="line"
+           x="203.28041"
+           y="-183.45015"
+           id="tspan2010-6-2">Native</tspan></text>
+    </g>
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-9"
+       cx="110.7092"
+       cy="219.95956"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-3"
+       cx="56.675339"
+       cy="247.52327"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-1"
+       cx="9.6504908"
+       cy="247.52327"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-94"
+       cx="9.6504908"
+       cy="258.96204"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-7"
+       cx="9.6504908"
+       cy="183.76344"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-8"
+       cx="9.6504908"
+       cy="188.28314"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-4"
+       cx="9.6504908"
+       cy="192.79262"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-5"
+       cx="9.6504908"
+       cy="143.69685"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-0"
+       cx="9.6504908"
+       cy="102.15838"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-36"
+       cx="9.6504908"
+       cy="105.68604"
+       r="1.0583333" />
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-10"
+       cx="9.6504908"
+       cy="109.21325"
        r="1.0583333" />
   </g>
 </svg>
