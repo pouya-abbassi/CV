@@ -16,7 +16,14 @@
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="PouyaAbbassiCover.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="-25.164496"
+       y="288.06052"
+       width="117.99988"
+       height="63.013146"
+       id="rect2059" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +31,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="431.77438"
-     inkscape:cy="601.37719"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="361.18363"
+     inkscape:cy="599.96381"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -42,7 +49,10 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true" />
+     inkscape:bbox-nodes="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -102,7 +112,7 @@
        transform="matrix(0.35296255,0,0,-0.35274372,-0.6105376,289.7662)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99829px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;font-variant-east-asian:normal;"
          x="25.865751"
          y="-748.28314"
          id="text2035"
@@ -110,23 +120,23 @@
            sodipodi:role="line"
            x="25.865751"
            y="-748.28314"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan2037">I'm an expert full stack software engineer, passionate about learning cutting edge technologies and a huge fan of Free-Software and Security.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99828995px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75;font-variant-east-asian:normal;"
+           id="tspan1997">I'm an expert full stack software engineer, passionate about learning cutting edge technologies and a huge fan of Free-Software and Security.</tspan><tspan
            sodipodi:role="line"
            x="25.865751"
            y="-738.28314"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan1855">I have worked professionaly on low and high level programming languages such as C for microcontrollers and Python for web development and</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99828995px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75;font-variant-east-asian:normal;"
+           id="tspan2711">I have worked professionaly on low and high level programming languages such as C for microcontrollers and Python for web development and</tspan><tspan
            sodipodi:role="line"
            x="25.865751"
            y="-728.28314"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan1987">image processing.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99828995px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75;font-variant-east-asian:normal;"
+           id="tspan2713">image processing.</tspan><tspan
            sodipodi:role="line"
            x="25.865751"
            y="-718.28314"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-           id="tspan1997">I also love LISP and Functional Programming, so I spend most of my free time on Clojure hobby projects.</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99828995px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.75;font-variant-east-asian:normal;"
+           id="tspan2715">I also love LISP and Functional Programming, so I spend most of my free time on Clojure hobby projects.</tspan></text>
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.385279"
@@ -287,18 +297,32 @@
            sodipodi:role="line"
            x="0"
            y="0"
-           id="tspan1859">Healthcare company specialized in computed tomography softwares and</tspan><tspan
+           id="tspan2969">Maintained a very large scale and complex, FDA-approved PACS (Picture Archiving</tspan><tspan
            sodipodi:role="line"
            x="0"
            y="9.1969881"
-           id="tspan1867">solutions.</tspan></text>
+           id="tspan2967">and Communication System) of several components and design a medical spare part</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="18.393976"
+           id="tspan2989">center using: <tspan
+   style="fill:#009500"
+   id="tspan2995">PHP</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2997">JS</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2999">Python</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan3001">Clojure</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan3003">ClojureScript</tspan>, and...</tspan></text>
     </g>
     <g
        id="g138"
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
     <g
        id="g146"
-       transform="matrix(0.35296255,0,0,-0.35274372,0.1452502,298.20183)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.14524754,302.57098)">
       <text
          transform="matrix(1,0,0,-1,33.789,553.577)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -310,7 +334,7 @@
     </g>
     <g
        id="g154"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.26655)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-1.9546708e-6,301.6357)">
       <text
          transform="matrix(1,0,0,-1,33.789,540.765)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -322,7 +346,7 @@
     </g>
     <g
        id="g160"
-       transform="matrix(0.35296255,0,0,-0.35274372,0.0236968,296.28393)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.02369414,300.65308)">
       <text
          transform="matrix(1,0,0,-1,33.789,527.98)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -334,7 +358,7 @@
     </g>
     <g
        id="g166"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.3804185,296.85395)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042116,301.2231)">
       <text
          transform="matrix(1,0,0,-1,25.087,514.487)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -346,7 +370,7 @@
     </g>
     <g
        id="g178"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.3804185,296.85395)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042116,301.2231)">
       <text
          transform="matrix(1,0,0,-1,54.397,514.487)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -361,7 +385,7 @@
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
     <g
        id="g190"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.154075,295.93163)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.15407766,300.30078)">
       <text
          transform="matrix(1,0,0,-1,24.888,491.385)"
          style="font-variant:normal;font-weight:bold;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -373,7 +397,7 @@
     </g>
     <g
        id="g196"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.3620765,296.79417)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.36207916,301.16332)">
       <text
          transform="matrix(1,0,0,-1,24.888,478.572)"
          style="font-variant:normal;font-weight:normal;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -385,7 +409,7 @@
     </g>
     <g
        id="g202"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.1976139,296.38029)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.19761656,300.74944)">
       <text
          transform="matrix(1,0,0,-1,24.888,467.886)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -397,23 +421,43 @@
     </g>
     <g
        id="g208"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.1901096,295.89398)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.19011226,300.26313)">
       <text
          transform="matrix(1,0,0,-1,24.888,458.985)"
-         style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text212"><tspan
            sodipodi:role="line"
            x="0"
            y="0"
-           id="tspan5386">I was in charge of back-end development of Inboard CRM and ensure its smooth</tspan><tspan
+           id="tspan1871">Successfully developed and maintained a cloud CRM, specialized for small to medium-size</tspan><tspan
            sodipodi:role="line"
            x="0"
-           y="9.1969881"
-           id="tspan1871">integration with other softwares. i.e. monitoring system.</tspan></text>
+           y="8.7481375"
+           id="tspan2881">companies and build integration scripts for different platforms. Also built a new</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="17.496275"
+           id="tspan2885">help desk platform to improve customer interactions. We were using: <tspan
+   style="fill:#009500"
+   id="tspan2889">PHP</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2891">codigniter</tspan>,</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="26.244411"
+           id="tspan2887"><tspan
+   style="fill:#009500"
+   id="tspan2893">JS</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2895">Python</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2897">WebSocket</tspan>, <tspan
+   style="fill:#009500"
+   id="tspan2901">WebRTC</tspan>, and...</tspan></text>
     </g>
     <g
        id="g222"
-       transform="matrix(0.35296255,0,0,-0.35274372,5e-7,295.21096)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-4.8093418e-6,306.68628)">
       <text
          transform="matrix(1,0,0,-1,33.789,427.18)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -425,7 +469,7 @@
     </g>
     <g
        id="g228"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.3804185,295.78097)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042382,307.25629)">
       <text
          transform="matrix(1,0,0,-1,25.087,413.687)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -437,7 +481,7 @@
     </g>
     <g
        id="g240"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.3804185,295.78097)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042382,307.25629)">
       <text
          transform="matrix(1,0,0,-1,54.397,413.687)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -449,7 +493,7 @@
     </g>
     <g
        id="g252"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.28889099,296.53457)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.28889631,308.00989)">
       <text
          transform="matrix(1,0,0,-1,24.888,390.67)"
          style="font-variant:normal;font-weight:bold;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -461,7 +505,7 @@
     </g>
     <g
        id="g258"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.1386674,297.39383)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.13867272,308.86915)">
       <text
          transform="matrix(1,0,0,-1,24.888,377.772)"
          style="font-variant:normal;font-weight:normal;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -473,7 +517,7 @@
     </g>
     <g
        id="g264"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.13795)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-4.6093418e-6,308.61327)">
       <text
          transform="matrix(1,0,0,-1,24.888,367.086)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -488,30 +532,50 @@
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
     <g
        id="g272"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.13795)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-4.6093418e-6,308.61327)">
       <text
          transform="matrix(1,0,0,-1,24.888,358.185)"
-         style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text276"><tspan
            sodipodi:role="line"
            x="0"
            y="0"
-           id="tspan6577">E-commerce marketplace where individual professions can signup and take their</tspan><tspan
+           id="tspan2757">Developed an e-commerce marketplace and helped hundereds of professional business-</tspan><tspan
            sodipodi:role="line"
            x="0"
-           y="9.1969881"
-           id="tspan1878">own place in our platform and advertise their products and services.</tspan><tspan
+           y="8.7481375"
+           id="tspan2761">owners showcase their product and service to national-scale audience.</tspan><tspan
            sodipodi:role="line"
            x="0"
-           y="18.393976"
-           id="tspan1880">I started as junior developer and gradually raise to project management position.</tspan></text>
+           y="17.496275"
+           id="tspan2769">Also I designed a brand-new image processing project, which became the main revenue</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="26.244411"
+           id="tspan2773">source of our company; Still running at the heart of their servers. We were using:</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="34.99255"
+           id="tspan2835"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2837">PHP</tspan>, <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2839">JS</tspan>, <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2841">Python</tspan>, <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2843">Flask</tspan>, <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2845">Pillow</tspan>, <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99851px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#009500"
+   id="tspan2847">MyQSL</tspan>, and...</tspan></text>
     </g>
     <g
        id="g286"
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
     <g
        id="g294"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.09225)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.19236786,315.45652)">
       <text
          transform="matrix(1,0,0,-1,33.789,318.387)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -523,7 +587,7 @@
     </g>
     <g
        id="g302"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.09225)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.19236786,315.45652)">
       <text
          transform="matrix(1,0,0,-1,33.789,305.574)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -535,7 +599,7 @@
     </g>
     <g
        id="g310"
-       transform="matrix(0.35296255,0,0,-0.35274372,7e-7,297.09225)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.19236786,315.45652)">
       <text
          transform="matrix(1,0,0,-1,33.789,292.761)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -546,52 +610,11 @@
            y="0">Senior back-end programmer</tspan></text>
     </g>
     <g
-       id="g316"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.19610797,298.68924)">
-      <text
-         transform="matrix(1,0,0,-1,24.888,260.361)"
-         style="font-variant:normal;font-weight:bold;font-size:13.89px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration: underline;text-decoration-line: underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text320"><tspan
-           sodipodi:role="line"
-           id="tspan318"
-           style="fill:#009500;fill-opacity:1"
-           x="0"
-           y="0">CERTIFICATES</tspan></text>
-    </g>
-    <g
-       id="g322"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.40544797,296.04365)">
-      <text
-         transform="matrix(1,0,0,-1,25.2,242.673)"
-         style="font-variant:normal;font-weight:normal;font-size:8.901px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text326"><tspan
-           sodipodi:role="line"
-           id="tspan324"
-           x="0"
-           y="0">Faran University (2017 - 2019)</tspan></text>
-    </g>
-    <g
-       id="g328"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.25014657,296.04366)">
-      <text
-         transform="matrix(1,0,0,-1,24.888,231.08)"
-         style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text332"><tspan
-           sodipodi:role="line"
-           id="tspan5396"
-           x="0"
-           y="0">University didn't teach me useful CS topics so last year I quit to spend more time</tspan><tspan
-           sodipodi:role="line"
-           x="0"
-           y="9.1969881"
-           id="tspan1884">on my carrier. I may continue where i left oﬀ but so far it felt like a sane choice.</tspan></text>
-    </g>
-    <g
        id="g336"
        transform="matrix(0.35296255,0,0,-0.35274372,0,297.00105)" />
     <g
        id="g342"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.36770077,296.28573)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.36311029,292.71595)">
       <text
          transform="matrix(1,0,0,-1,24.888,191.366)"
          style="font-variant:normal;font-weight:bold;font-size:13.89px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration: underline;text-decoration-line: underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -604,7 +627,7 @@
     </g>
     <g
        id="g348"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.15407737,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.14948676,308.95445)">
       <text
          transform="matrix(1,0,0,-1,24.888,168.661)"
          style="font-variant:normal;font-weight:bold;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -616,7 +639,7 @@
     </g>
     <g
        id="g354"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.36207887,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.35748826,308.95445)">
       <text
          transform="matrix(1,0,0,-1,24.888,155.876)"
          style="font-variant:normal;font-weight:normal;font-size:10.913px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -628,7 +651,7 @@
     </g>
     <g
        id="g360"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.19761637,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.19302576,308.95445)">
       <text
          transform="matrix(1,0,0,-1,24.888,145.161)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -640,7 +663,7 @@
     </g>
     <g
        id="g368"
-       transform="matrix(0.35296255,0,0,-0.35274372,-1.5650766e-6,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.00458904,308.95445)">
       <text
          transform="matrix(1,0,0,-1,33.789,122.371)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -656,7 +679,7 @@
     </g>
     <g
        id="g382"
-       transform="matrix(0.35296255,0,0,-0.35274372,-1.5650766e-6,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.00458904,308.95445)">
       <text
          transform="matrix(1,0,0,-1,166.989,122.371)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -676,7 +699,7 @@
     </g>
     <g
        id="g402"
-       transform="matrix(0.35296255,0,0,-0.35274372,-1.5650766e-6,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,0.00458904,308.95445)">
       <text
          transform="matrix(1,0,0,-1,33.789,89.886)"
          style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -766,7 +789,7 @@
            sodipodi:role="line"
            x="0"
            y="9.1969881"
-           id="tspan1845">great ideas behind it.</tspan></text>
+           id="tspan2065">great ideas behind it. Serene compmiler is on its early stages, by .</tspan></text>
     </g>
     <g
        id="g564"
@@ -1106,7 +1129,7 @@
     </g>
     <g
        id="g1192"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.2026168,298.52031)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.20261946,302.88946)">
       <text
          transform="matrix(1,0,0,-1,24.888,564.576)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1118,7 +1141,7 @@
     </g>
     <g
        id="g1198"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.2026168,295.47304)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.20262212,306.94836)">
       <text
          transform="matrix(1,0,0,-1,24.888,438.179)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1130,7 +1153,7 @@
     </g>
     <g
        id="g1204"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.2072156,297.09225)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.20262478,315.45652)">
       <text
          transform="matrix(1,0,0,-1,24.888,329.385)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1142,7 +1165,7 @@
     </g>
     <g
        id="g1210"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.31018137,293.64015)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.30559076,308.95445)">
       <text
          transform="matrix(1,0,0,-1,24.888,133.284)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1747,62 +1770,62 @@
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-3"
-       cx="56.679935"
-       cy="249.48476"
+       cx="56.684528"
+       cy="264.7991"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-1"
-       cx="9.6550875"
-       cy="249.48476"
+       cx="9.6596775"
+       cy="264.7991"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-94"
-       cx="9.6550875"
-       cy="260.92352"
+       cx="9.6596775"
+       cy="276.23782"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-7"
-       cx="9.6504908"
-       cy="183.76344"
+       cx="9.8428574"
+       cy="202.12772"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-8"
-       cx="9.6504908"
-       cy="188.28314"
+       cx="9.8428574"
+       cy="206.64742"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-4"
-       cx="9.6504908"
-       cy="192.79262"
+       cx="9.8428574"
+       cy="211.15689"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-5"
-       cx="9.6504908"
-       cy="143.69685"
+       cx="9.650485"
+       cy="155.17218"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-0"
-       cx="9.6504908"
-       cy="102.15838"
+       cx="9.6504879"
+       cy="106.52753"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-36"
-       cx="9.6504908"
-       cy="105.68604"
+       cx="9.6504879"
+       cy="110.05521"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        id="path26696-2-0-8-2-5-22-10"
-       cx="9.6504908"
-       cy="109.21325"
+       cx="9.6504879"
+       cy="113.58241"
        r="1.0583333" />
     <circle
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1860,11 +1883,11 @@
            sodipodi:role="line"
            x="0"
            y="9.9925003"
-           id="tspan2087">Jinja2, SQL-alchemy, Pillow, Mysql, C, PostgreSQL, Rust, WebRTC,</tspan><tspan
+           id="tspan2087">Jinja2, SQL-alchemy, Pillow, JavaScript, Mysql, C, PostgreSQL, Rust,</tspan><tspan
            sodipodi:role="line"
            x="0"
            y="19.985001"
-           id="tspan2097">WebSocket, RESTful, Docker, Ansible , CloudFlare, Nginx</tspan></text>
+           id="tspan2097">WebRTC, WebSocket, RESTful, Docker, Ansible , CloudFlare, Nginx</tspan></text>
     </g>
     <path
        id="path26696-2-0-90-0"
@@ -1883,19 +1906,19 @@
        style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 198.73121,120.4554 a 1.0583333,1.0583333 0 0 0 -1.05833,1.05833 1.0583333,1.0583333 0 0 0 1.05833,1.05833 1.0583333,1.0583333 0 0 0 1.05833,-1.05833 1.0583333,1.0583333 0 0 0 -1.05833,-1.05833 z m 0,0.52916 a 0.52916666,0.52916666 0 0 1 0.52917,0.52917 0.52916666,0.52916666 0 0 1 -0.52917,0.52917 0.52916666,0.52916666 0 0 1 -0.52917,-0.52917 0.52916666,0.52916666 0 0 1 0.52917,-0.52917 z" />
     <text
-       transform="scale(1.0003101,0.99968998)"
+       transform="scale(1.0003101,0.99968999)"
        style="font-style:italic;font-variant:normal;font-size:2.50067px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352853"
        id="text232-3"
-       x="8.4717245"
-       y="199.01294"><tspan
+       x="8.4763136"
+       y="217.3829"><tspan
          sodipodi:role="line"
          id="tspan230-3"
-         x="8.4717245"
-         y="199.01294"
+         x="8.4763136"
+         y="217.3829"
          style="stroke-width:0.352853">Website:</tspan></text>
     <g
        id="g240-4"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.38041845,344.87674)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.37582763,363.24101)">
       <text
          transform="matrix(1,0,0,-1,54.397,413.687)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1907,7 +1930,7 @@
     </g>
     <g
        id="g228-2"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.38041876,298.64951)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042408,310.12483)">
       <text
          transform="matrix(1,0,0,-1,25.087,413.687)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1919,7 +1942,7 @@
     </g>
     <g
        id="g240-3"
-       transform="matrix(0.35296255,0,0,-0.35274372,-0.38041876,298.64951)">
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.38042408,310.12483)">
       <text
          transform="matrix(1,0,0,-1,54.397,413.687)"
          style="font-style:italic;font-variant:normal;font-size:7.087px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1929,5 +1952,56 @@
            x="0"
            y="0">Nima Barzegar - nima.bm@gmail.com</tspan></text>
     </g>
+    <text
+       transform="scale(1.0003101,0.99968999)"
+       style="font-variant:normal;font-weight:bold;font-size:3.85069px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352853"
+       id="text352-8"
+       x="8.4975939"
+       y="232.33495"><tspan
+         sodipodi:role="line"
+         id="tspan350-1"
+         x="8.4975939"
+         y="232.33495"
+         style="stroke-width:0.352853">Faran University (2017 - 2019)</tspan></text>
+    <g
+       id="g368-4"
+       transform="matrix(0.35296255,0,0,-0.35274372,0.19236526,282.47988)">
+      <text
+         transform="matrix(1,0,0,-1,33.789,122.371)"
+         style="font-variant:normal;font-weight:normal;font-size:7.994px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text372-6"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1886-0">Information Technology</tspan><tspan
+           sodipodi:role="line"
+           x="0"
+           y="9.9925003"
+           id="tspan2055">Tehran, IR</tspan></text>
+    </g>
+    <circle
+       style="fill:#009500;stroke-width:0.353078;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path26696-2-0-8-2-5-22-1-2"
+       cx="9.8474531"
+       cy="238.32449"
+       r="1.0583333" />
+    <text
+       xml:space="preserve"
+       id="text2057"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2059);" />
+    <g
+       id="g272-2"
+       transform="matrix(0.35296255,0,0,-0.35274372,-0.02501659,311.54145)" />
+    <text
+       transform="scale(1.0003101,0.99968999)"
+       style="font-style:italic;font-variant:normal;font-size:2.50067px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Italic;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352853"
+       id="text1214-3"
+       x="8.4717178"
+       y="235.84431"><tspan
+         sodipodi:role="line"
+         id="tspan1212-9"
+         x="8.4717178"
+         y="235.84431"
+         style="stroke-width:0.352853">Courses</tspan></text>
   </g>
 </svg>
