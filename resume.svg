@@ -35,22 +35,21 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="403.05087"
-     inkscape:cy="548.00776"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="322.44068"
+     inkscape:cy="265.51859"
      inkscape:window-width="1916"
      inkscape:window-height="1164"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g60972" />
   <defs
      id="defs1895" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <path
        d="M 0,0 H 210 V 297 H 0 Z"
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35286"
@@ -284,19 +283,17 @@
            id="tspan6517">WORK EXPERIENCE</tspan></text>
       <g
          id="g3085"
-         inkscape:label="arya-abzar"
-         sodipodi:insensitive="true">
+         inkscape:label="arya-abzar">
         <text
            transform="scale(0.99950849,1.0004918)"
-           style="font-variant:normal;font-weight:bold;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.84747px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
            id="text116"
            x="8.8297462"
            y="80.565468"><tspan
              sodipodi:role="line"
-             id="tspan114"
+             id="tspan415"
              x="8.8297462"
-             y="80.565468"
-             style="stroke-width:0.352558">Project Manager</tspan></text>
+             y="80.565468">Senior Software Engineer</tspan></text>
         <text
            transform="scale(0.99950849,1.0004918)"
            style="font-variant:normal;font-weight:normal;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -441,19 +438,17 @@
       </g>
       <g
          id="g4427"
-         inkscape:label="barazaman"
-         sodipodi:insensitive="true">
+         inkscape:label="barazaman">
         <text
            transform="scale(0.99950849,1.0004918)"
-           style="font-variant:normal;font-weight:bold;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.84747px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
            id="text194"
            x="8.9644051"
            y="127.32521"><tspan
              sodipodi:role="line"
-             id="tspan192"
+             id="tspan435"
              x="8.9644051"
-             y="127.32521"
-             style="stroke-width:0.352558">Senior back-end programmer</tspan></text>
+             y="127.32521">Senior Software Engineer</tspan></text>
         <text
            transform="scale(0.99950849,1.0004918)"
            style="font-variant:normal;font-weight:normal;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -590,19 +585,17 @@
       </g>
       <g
          id="g4915"
-         inkscape:label="simaye-mandegar"
-         sodipodi:insensitive="true">
+         inkscape:label="simaye-mandegar">
         <text
            transform="scale(0.99950849,1.0004918)"
-           style="font-variant:normal;font-weight:bold;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.84747px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
            id="text256"
            x="8.8297415"
            y="170.53816"><tspan
              sodipodi:role="line"
-             id="tspan254"
+             id="tspan475"
              x="8.8297415"
-             y="170.53816"
-             style="stroke-width:0.352558">Project Manager</tspan></text>
+             y="170.53816">Senior Software Engineer</tspan></text>
         <text
            transform="scale(0.99950849,1.0004918)"
            style="font-variant:normal;font-weight:normal;font-size:3.84747px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -969,8 +962,7 @@
     </g>
     <g
        id="g5939"
-       inkscape:label="skills"
-       sodipodi:insensitive="true">
+       inkscape:label="skills">
       <text
          transform="scale(0.99950849,1.0004918)"
          style="font-variant:normal;font-weight:bold;font-size:4.89703px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -1780,8 +1772,7 @@
     </g>
     <g
        id="g59466"
-       inkscape:label="volunteer"
-       sodipodi:insensitive="true">
+       inkscape:label="volunteer">
       <text
          transform="scale(0.99950846,1.0004918)"
          style="font-variant:normal;font-weight:bold;font-size:4.89703px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -1955,8 +1946,7 @@
     </g>
     <g
        id="g59540"
-       inkscape:label="technologies"
-       sodipodi:insensitive="true">
+       inkscape:label="technologies">
       <text
          transform="scale(0.99950849,1.0004918)"
          style="font-variant:normal;font-weight:bold;font-size:4.89703px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -1992,8 +1982,7 @@
     </g>
     <g
        id="g59975"
-       inkscape:label="awards"
-       sodipodi:insensitive="true">
+       inkscape:label="awards">
       <text
          transform="scale(0.99950849,1.0004918)"
          style="font-variant:normal;font-weight:bold;font-size:4.89703px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
@@ -2058,8 +2047,7 @@
     </g>
     <g
        id="g60010"
-       inkscape:label="interests"
-       sodipodi:insensitive="true">
+       inkscape:label="interests">
       <text
          transform="scale(0.99950849,1.0004918)"
          style="font-variant:normal;font-weight:bold;font-size:4.89703px;font-family:Quicksand;-inkscape-font-specification:Quicksand-Bold;text-decoration:underline;text-decoration-line:underline;writing-mode:lr-tb;fill:#009500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352558"
