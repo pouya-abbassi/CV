@@ -1,0 +1,166 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Pouya's CV Latex file
+% Copyright (C) 2022 Pouya Abbasi <me@pouyacode.net>
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+\documentclass{cv_pouya}
+
+\setname{Pouya}{Abbasi}
+\setjobtitle{Senior Software Engineer}
+\setaddress{Tehran, Iran}
+\setmobile{+44 7424 366 486}
+\setmail{abbassi.pouya@gmail.com}
+\setwebsite{pouyacode.net}
+\setgit{github.com/pouya-abbassi}
+
+\begin{document}
+\hypersetup{hidelinks}
+\color{bodycolor}
+\headerview{}
+\vspace{0.5cm}
+\begin{multicols*}{2}
+  \section{Experience}
+  \vbox{\vspace{0.1cm}
+    \role{Bildigo}{Senior Software Engineer}{Mar 2023 - Aug 2025}{
+      \jobdesc{
+        \hspace{0.2cm} Developing and maintaining an open-source based design tool aimed for Architectural Presentation. I successfully build and manage the infrastructure, testing, monitoring and quality control of this precision-demanding software. \\
+        I use \hl{Clojure}, \hl{ClojureScript}, \hl{Python}, \hl{React}, \hl{PostgreSQL}, \hl{AWS}, \hl{Terraform}, \hl{Ansible}, \hl{CircleCI}, \hl{Playwright} to achieve my goals. \\
+        \responsibilities{
+          Senior Software Engineer,
+          Infrastructure and Linux system administrator,
+          Metrics\, alerting and monitoring
+        }
+      }
+    }
+  }
+  \vbox{\vspace{0.1cm}
+    \role{LifeCheq}{Senior Software Engineer}{Jan 2022 - Mar 2023}{
+      \jobdesc{
+        \hspace{0.2cm} As a member of the agile Platforms Squad, I delivered improvement and maintenance of our large codebase in many aspects, both front-end and back-end. Aiming to improve other squads' workflow and also respond to users' feedback. \\
+        I used technologies like \hl{Clojure}, \hl{ClojureScript}, \hl{Kaocha}, \hl{CircleCI}, \hl{Heroku} and \hl{Sentry}. \\
+        \responsibilities{
+          Writing PoC/MVC for new tools/libs,
+          Refactoring and performance improvement,
+          Metrics\, alerting and monitoring
+        }
+      }
+    }
+  }
+  \vbox{\vspace{0.1cm}
+    \role{Arya-Abzar Healthcare}{Senior Software Engineer}{Aug 2018 - Jan 2022}{
+      \jobdesc{
+        \hspace{0.2cm} Maintained a large scale and complex, FDA-approved PACS (Picture Archiving and Communication System for medical imaging) of several components while improving tests to ensure reliable execution of the software. Also design a medical spare part center in response to hospitals requirements.\\
+        I leveraged: \hl{PHP}, \hl{JavaScript}, \hl{Python}, \hl{Django}, \hl{Clojure}, \hl{ClojureScript}, and... \\
+        \responsibilities{
+          Senior Software Engineer,
+          Linux System Administrator
+        }
+      }
+    }
+  }
+  \vbox{\vspace{0.1cm}
+    \role{Inboard}{Senior Software Engineer}{May 2017 - May 2018}{
+      \jobdesc{
+        \hspace{0.2cm} Took part in development and maintenance of a cloud CRM, specialized for small to medium-size businesses and built integration scripts for various platforms. Also built a new help desk platform to improve customer interactions. \\
+        We were using: \hl{PHP}, \hl{codigniter}, \hl{JavaScript}, \hl{Python}, \hl{WebSocket}, \hl{WebRTC}, and... \\
+        \responsibilities{
+          Senior Software Engineer
+        }
+      }
+    }
+  }
+  \vbox{\vspace{0.1cm}
+    \role{Sima-ye Mandegar}{Senior Software Engineer}{Feb 2014 - Mar 2017}{
+      \jobdesc{
+        \hspace{0.2cm} Developed an e-commerce marketplace from ground up and helped hundreds of professional business owners showcase their product and service to national-wide audience.
+        As well as offering my personal image processing project as a new value-making service, which received Patent Approval and became the main revenue source of our company; Still running at the heart of their servers. \\
+        We were using: \hl{PHP}, \hl{JavaScript}, \hl{Python}, \hl{Flask}, \hl{Pillow}, \hl{MyQSL}. \\
+        \responsibilities{
+          Linux System Administrator,
+          Software Engineer
+        }
+      }
+    }
+  }
+  \columnbreak{}
+  \section{Skills}
+  \vbox{\vspace{0.2cm}
+    \begin{multicols}{2}
+      \begin{tabular}{r c}
+        \skill{Clojure}{5}
+        \skill{Lisp Family}{5}
+        \skill{Python}{5}
+        \skill{Rust}{3}
+        \skill{Golang}{3}
+        \skill{Dart}{3}
+        \skill{C++}{3}
+        \skill{Nix}{4}
+        \skill{JavaScript}{5}
+      \end{tabular}
+      \begin{tabular}{r c}
+        \skill{Devops}{4}
+        \skill{CI/CD}{4}
+        \skill{Security}{3}
+        \skill{UI/UX}{3}
+        \skill{Linux Admin}{4}
+        \skill{Networking}{3}
+        \skill{Antlr4}{4}
+        English & \textbf{\color{primarycolor} Fluent}\\
+        Persian & \textbf{\color{primarycolor} Native}
+      \end{tabular}
+    \end{multicols}
+  }
+  \section{Volunteer Experience}
+  \vbox{\vspace{0.2cm}
+    \role{IR-Repair Institute}{Programming Instructor}{2012-2013}{
+      \jobdesc{
+        \hspace{0.2cm} Implemented a creative method of teaching programming to teenagers between age of 10 to 14.\\
+        We started off with \hl{Scratch} and then moved to writing simple \hl{C} codes and prepared them for more advanced Micro Controller and Robotic courses.
+      }
+    }
+  }
+  \section{Awards}
+  \vbox{\vspace{0.2cm}
+    \role{\faIcon{medal} 2nd place RoboCup}{Programming}{2010}{
+      \jobdesc{
+        \hspace{0.2cm} IN a team of 6, including programmers, electronic experts and mechanics. We participated in the Robotic Match of Isfahan University of Technology and won 2\textsuperscript{nd} prize in Rescue Robot league.
+      }
+    }
+  }
+  \section{Education}
+  \vbox{\vspace{0.2cm}
+    \role{Faran University}{Information Technology}{2017-2019}{
+    }
+  }
+  \vbox{\vspace{0.2cm}
+    \role{Kharazmi Institute}{C/C++ Courses}{2008-2010}{
+    }
+  }
+  \section{Interests}
+  \vbox{\vspace{0.2cm}
+    \mybox{reading}
+    \mybox{Electronics}
+    \mybox{3D Modeling}
+    \mybox{Cycling}
+    \mybox{Gaming}
+  }
+  \vbox{\vspace{1cm}
+    \hfill
+    {\scriptsize This CV is written in {\normalsize \LaTeX}, and it's {\color{primarycolor} \faIcon{github} \href{https://github.com/pouya-abbassi/CV/}{Open Source}}}.
+  }
+\end{multicols*}
+\end{document}
