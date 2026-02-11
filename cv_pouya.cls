@@ -79,10 +79,13 @@
           \name{}
           \summary{
             \bfseries
-            Expert full stack software engineer, passionate about cutting edge technologies and a huge fan of Free-Software and Security.\\\\
-            Successfully designed and managed a Patent Approved service using image processing technologies.\\
-            Have experience in startups and established organizations, turning business requirements to product. Developing and maintaining medium-sized software with small and medium-size groups of high-functioning engineers while mentoring less-experienced ones in different industries, each with their unique customers and their demands.\\\\
-            I love LISP and Functional Programming, and have diverse experience in various languages, paradigms and always strive to deepen my understanding of computer science, STEM or any other interesting topic.
+            Expert Senior Software Engineer with over 10 years of experience building high-stakes, patent-approved software systems. Specialist in Python (Django, Flask, FastAPI) and TypeScript (React, Node.js) ecosystems, with a deep background in functional programming and infrastructure. Proven track record of turning complex business requirements into scalable products, mentoring high-functioning teams, and managing mission-critical AWS/Linux environments.
+            \\
+
+            Backend: Python (Expert), Django, Flask, FastAPI, Node.js, Clojure, Rust, Go.\\
+            Frontend: TypeScript, JavaScript, React, ClojureScript, UI/UX Design, WebRTC.\\
+            Cloud & DevOps: AWS, Terraform, Ansible, CircleCI, Docker, Nix, Linux Admin.\\
+            Data & Security: PostgreSQL, MySQL, Sentry, Metrics Monitoring (Prometheus/Grafana).
           }
         \end{minipage}
       \end{leftcolumn}
@@ -146,7 +149,7 @@
 }
 
 \newcommand{\jobdesc}[1]{
-  \mbox{\hspace{1.2em} \scriptsize \desc{#1}}\\[0.2cm]
+  \mbox{\hspace{1.2em} \desc{#1}}\\[0.2cm]
 }
 
 \newcommand{\headlesssection}[1]{
@@ -185,23 +188,11 @@
 }
 
 \newcommand{\desc}[1]{
-  \begin{minipage}{0.96\linewidth} \scriptsize #1 \end{minipage} \\[0.1cm]
+  \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
 }
 
 \newcommand{\hl}[1]{
   {\color{primarycolor} \texttt{#1}}
-}
-
-\newcommand{\responsibility}[1]{
-  {{\color{primarycolor} \faIcon{circle}}~\textbf{#1}}
-}
-
-\newcommand{\responsibilities}[1]{
-  {\color{primarycolor} \textit{Responsibilities:}} \\
-  \foreach \r in {#1} {
-    \responsibility{\r} \\
-  }
-  \vspace{-1em}
 }
 
 \newcommand\ruleafter[1]{#1~{\color{primarycolor}\hrulefill}}
